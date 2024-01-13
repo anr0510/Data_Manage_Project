@@ -1,0 +1,8 @@
+a=10
+b=20
+print(f"The original values Before swapping: a={a} , b={b}")
+
+c=a
+a=b
+b=c
+print(f"The values After swapping: a={a} , b={b}")
